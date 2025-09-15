@@ -28,9 +28,9 @@ The course objectives are to learn the theory and practice of time series foreca
 ### Assignments and Evaluation
 
 - group works: evaluated but not part of final mark
-- **20%**: mini challenge: forecasting pipeline for a single time series. Groups allowed
-- **80%**: final project: complex forecasting task. Groups allowed (same as mini challenge) + oral exam
-
+- **20%**: mini challenge: forecasting pipeline for a single time series. Groups allowed.
+- **60%**: final project: complex forecasting task. Groups allowed (same as mini challenge)
+- **20%**: oral exam. During the oral students will present the final challenge group work (each student will present a specific part, but all should be able to answer questions related to any part of the project). You should prepare to answer additional questions on course theory.
 
 # Notebooks
 
