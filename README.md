@@ -30,3 +30,11 @@ The course objectives are to learn the theory and practice of time series foreca
 - group works: evaluated but not part of final mark
 - **20%**: mini challenge: forecasting pipeline for a single time series. Groups allowed
 - **80%**: final project: complex forecasting task. Groups allowed (same as mini challenge) + oral exam
+
+
+# Notebooks
+
+You can open the course notebooks directly in Google Colab by clicking the badges below:
+
+## Week 1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W1/L1_data_visualization.ipynb)
