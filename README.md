@@ -11,7 +11,7 @@ The course objectives are to learn the theory and practice of time series foreca
 
 ### **Course Meeting Times**
 
-1 session / week, 3 hours / session + 1 async hour, 4.0 ECTS
+1 session / week, 3 hours / session + 1 async hour, 3.0 ECTS
 
 ### Prerequisites
 
