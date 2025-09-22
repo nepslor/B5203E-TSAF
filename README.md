@@ -38,3 +38,8 @@ You can open the course notebooks directly in Google Colab by clicking the badge
 
 ## Week 1 - TS Data visualization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W1/L1_data_visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W1/L1_data_visualization_solutions.ipynb)
+
+
+## Week 2 - Benchmark models and stationarity tests
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W2/simple_models.ipynb)
