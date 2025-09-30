@@ -47,3 +47,15 @@ Data visualization - solutions
 ## Week 2 - Benchmark models and stationarity tests
 Benchmark models and stationarity tests
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W2/simple_models.ipynb)
+
+Benchmark models and stationarity tests - solutions
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W2/simple_models_solutions.ipynb)
+
+
+## Week 3 - Forecastability and fourier forecasting
+Forecastability indicators
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W3/forecastability_indicators.ipynb)
+
+Fourier forecasting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W3/fourier_forecasts_and_regression.ipynb)
+
