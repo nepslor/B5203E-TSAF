@@ -59,3 +59,11 @@ Forecastability indicators
 Fourier forecasting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W3/fourier_forecasts_and_regression.ipynb)
 
+## Week 4 - Takens theorem and forecasting via embeddings
+Takens theorem
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W4/Embeddings_and_takens_theorem.ipynb)
+
+Fourier forecasting Pt II
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W4/fourier_forecasts_and_regression_pt2.ipynb)
+
+
