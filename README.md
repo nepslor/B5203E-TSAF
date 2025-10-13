@@ -67,3 +67,7 @@ Fourier forecasting Pt II
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W4/fourier_forecasts_and_regression_pt2.ipynb)
 
 
+## Week 5 - Exponential smoothing implementation
+Exponential smoothing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepslor/B5203E-TSAF/blob/main/W5/exponential_smoothing_implementation.ipynb)
+
